@@ -1,7 +1,7 @@
 <!-- Animated Typing Name Banner -->
 ![Typing Name](https://readme-typing-svg.demolab.com?font=Fira+Code&size=36&duration=3000&color=61DAFB&width=600&lines=Hi,+I'm+Saif+ur+Rehman+🚀)
 
-# 👋 Hi, I'm Saif ur Rehman
+
 Senior Mobile & Full-Stack Developer | React Native, Android (Java/Kotlin), iOS (Swift/SwiftUI) | Node.js Backend | AI & Next.js Enthusiast | 8+ Years Experience
 
 "Code is like humor. When you have to explain it, it's bad." – Cory House
@@ -46,7 +46,7 @@ I have successfully delivered apps with **500K+ users**, led production teams, m
 ## 🚀 Featured Projects
 
 ### **Pryvate – Secure VOIP Chat App**
-![Placeholder](https://via.placeholder.com/400x200?text=Pryvate+Demo+GIF)  
+
 **Platforms:** iOS | Android  
 **Tech:** Swift, Kotlin, Node.js, Firebase  
 **Key Features:**  
@@ -61,7 +61,7 @@ Android: https://play.google.com/store/apps/details?id=net.pryvate
 ---
 
 ### **Hiiker – Hiking & Trekking App**
-![Placeholder](https://via.placeholder.com/400x200?text=Hiiker+Demo+GIF)  
+
 **Platforms:** iOS | Android  
 **Tech:** React Native, Node.js, Firebase  
 **Key Features:**  
@@ -76,7 +76,7 @@ Android: https://play.google.com/store/apps/details?id=com.waymarkedtrails.hiike
 ---
 
 ### **Routinsie – Routine Planner & Habit Tracker**
-![Placeholder](https://via.placeholder.com/400x200?text=Routinsie+Demo+GIF)  
+
 **Platforms:** iOS | Android  
 **Tech:** React Native, Node.js, MongoDB  
 **Key Features:**  
@@ -91,7 +91,7 @@ Android: https://play.google.com/store/apps/details?id=com.routinsie&hl=en
 ---
 
 ### **Beyon Money – Fintech Digital Wallet**
-![Placeholder](https://via.placeholder.com/400x200?text=Beyon+Demo+GIF)  
+
 **Platform:** iOS  
 **Tech:** Swift, Node.js, PostgreSQL  
 **Key Features:**  
@@ -129,4 +129,4 @@ iOS: https://apps.apple.com/md/app/beyon-money-بيون-موني/id1584344662
 
 ## 🤝 Connect with Me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/saif-ur-rehman-ab42b2a3)  
-[![Email](https://img.shields.io/badge/Email)]()
+

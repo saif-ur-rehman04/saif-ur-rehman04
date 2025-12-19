@@ -1,5 +1,5 @@
 # 👋 Hi, I'm Saif ur Rehman
-Senior Mobile App Developer | React Native, Android (Java/Kotlin), iOS (Swift) | Node.js Backend | 8+ Years Experience
+Senior Mobile & Full-Stack Developer | React Native, Android (Java/Kotlin), iOS (Swift/SwiftUI) | Node.js Backend | AI & Next.js Enthusiast | 8+ Years Experience
 
 "Code is like humor. When you have to explain it, it's bad." – Cory House
 
@@ -11,22 +11,24 @@ Lahore, Pakistan
 ---
 
 ## 🔧 Tech Stack
-**Mobile:**  
+**Mobile & Web:**  
 ![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white) 
 ![iOS](https://img.shields.io/badge/iOS-000000?style=for-the-badge&logo=apple&logoColor=white) 
 ![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB) 
-![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
+![React.js](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
 
-**Backend:**  
+**Backend & AI:**  
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white) 
 ![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white) 
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
+![AI/ML](https://img.shields.io/badge/AI-FF6F61?style=for-the-badge&logo=neuralink&logoColor=white)
 
 **Databases & Tools:**  
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white) 
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white) 
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white) 
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white) 
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
 ---
 
@@ -48,17 +50,12 @@ Lahore, Pakistan
 
 ---
 
-## 📊 GitHub Stats
-![Saif's GitHub Stats](https://github-readme-stats.vercel.app/api?username=saif-ur-rehman04&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=saif-ur-rehman04&layout=compact&theme=radical)
-
----
-
 ## 🏆 Achievements
-- 8+ years of professional mobile development experience  
-- Built apps with 500K+ users  
-- Mentored junior developers and led production projects  
-- Strong expertise in scalable and secure mobile applications
+- 8+ years of professional mobile and web development experience  
+- Built apps with 500K+ active users worldwide  
+- Led production projects and mentored junior developers  
+- Expertise in scalable, secure, and AI-powered applications  
+- Strong full-stack skills across React.js, Next.js, Node.js, Swift, Kotlin, and AI integrations  
 
 ---
 
